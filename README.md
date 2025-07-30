@@ -1,7 +1,7 @@
 # :sunglasses:About me!
 
 I am a newly trained FullStack developer! 
-- 🔭 I’m currently working on my game-library App called GaMeBry.
+- 🔭 I’m currently working on my coding skills and aspire to become a Fullstack developer!
 - 🌱 I’m currently learning Backend and Frontend programming.
 - 📫 Please contact me on: https://www.linkedin.com/in/roh-kazimi-71b233264/
 
